@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OnlyVikas
 - 👀 I’m interested in Flutter development
-- 🌱 I’m currently learning & explorin flutter in advance level.
+- 🌱 I’m currently learning & exploring flutter in advance level.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
